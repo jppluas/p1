@@ -30,6 +30,7 @@ public class Main {
 
         p1.mostrarInformacion();
         p2.mostrarInformacion();
+        System.out.println("Adios");
     }
 
 }
